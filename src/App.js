@@ -8,8 +8,11 @@ const emojiDictionary = {
   "🍑": "Peach",
   "🍓": "Strawberry",
   "🫐": "Blueberries",
-  "🍈 ": "Melon",
-  "🍊": "Tangerine"
+  "🍈": "Melon",
+  "🍊": "Tangerine",
+  "🍍": " Pineapple",
+  "🥭": "Mango",
+  "🍌": "Banana"
 };
 
 const emojiWeKnow = Object.keys(emojiDictionary);
