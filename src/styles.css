@@ -2,3 +2,16 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+input {
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+h1 {
+  color: rgb(216, 24, 81);
+}
+p {
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
