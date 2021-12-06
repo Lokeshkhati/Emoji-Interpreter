@@ -4,7 +4,7 @@ import "./styles.css";
 const emojiDictionary = {
   "🍇": "Grapes",
   "🍋": "Lemon",
-  "🥺": "Red Apple",
+  "🍎": "Red Apple",
   "🍑": "Peach",
   "🍓": "Strawberry",
   "🫐": "Blueberries",
